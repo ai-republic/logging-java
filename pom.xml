@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ai-republic</groupId>
 	<artifactId>logging-java</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<name>Java logging extension</name>
 	<description>Supporting tools for java.util.logging.Logger including annotation based configuration.</description>
