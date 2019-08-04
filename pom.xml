@@ -14,7 +14,7 @@
 
 	<name>Java logging extension</name>
 	<description>Supporting tools for java.util.logging.Logger including annotation based configuration.</description>
-	<url>http://www.ai-republic.com</url>
+	<url>https://github.com/ai-republic/java-logging</url>
 
 	<licenses>
 		<license>
