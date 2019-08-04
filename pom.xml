@@ -1,18 +1,19 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ai-republic</groupId>
 	<artifactId>logging-java</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 
+	<name>Java logging extension</name>
+	<description>Supporting tools for java.util.logging.Logger including annotation based configuration.</description>
+	<url>https://github.com/ai-republic/java-logging</url>
 
 	<properties>
 		<encoding>UTF-8</encoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
-	<name>Java logging extension</name>
-	<description>Supporting tools for java.util.logging.Logger including annotation based configuration.</description>
-	<url>https://github.com/ai-republic/java-logging</url>
 
 	<licenses>
 		<license>
@@ -27,7 +28,6 @@
 			<name>Torsten Oltmanns</name>
 			<email>Torsten.O@gmx.net</email>
 			<organization>ai-republic - Torsten Oltmanns IT Consulting</organization>
-			<organizationUrl>http://www.ai-republic.com</organizationUrl>
 		</developer>
 	</developers>
 
@@ -35,8 +35,7 @@
 		<connection>scm:git:https://github.com/ai-republic/java-logging.git</connection>
 		<developerConnection>scm:git:https://github.com/ai-republic/java-logging.git</developerConnection>
 		<url>https://github.com/ai-republic/java-logging</url>
-	  <tag>logging-java-1.0.0</tag>
-  </scm>
+	</scm>
 
 	<distributionManagement>
 		<snapshotRepository>
