@@ -21,8 +21,6 @@ import javax.inject.Qualifier;
  * <p>
  * Example:
  * </p>
- * 
- * 
  * <p>
  * <code>&#64;Inject</code>
  * </p>
