@@ -32,8 +32,8 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:https://github.com/ai-republic/java-logging.git</connection>
-		<developerConnection>scm:git:https://github.com/ai-republic/java-logging.git</developerConnection>
+		<connection>scm:git:git://github.com/ai-republic/java-logging.git</connection>
+		<developerConnection>scm:git:git@github.com:ai-republic/java-logging.git</developerConnection>
 		<url>https://github.com/ai-republic/java-logging</url>
 	</scm>
 
