@@ -32,9 +32,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/ai-republic/java-logging</connection>
-		<developerConnection>scm:git:git://github.com/ai-republic/java-logging</developerConnection>
-		<url>scm:git:git://github.com/ai-republic/java-logging.git</url>
+		<connection>scm:git:https://github.com/ai-republic/java-logging.git</connection>
+		<developerConnection>scm:git:https://github.com/ai-republic/java-logging.git</developerConnection>
+		<url>https://github.com/ai-republic/java-logging</url>
 	  <tag>logging-java-1.0.0</tag>
   </scm>
 
